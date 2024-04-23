@@ -42,7 +42,7 @@ To run the Hotel Management System locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/left-no-crumbz/oop-cli.git`
 2. Navigate to the project directory: `cd Hotel`
-3. Compile the Java files: `javac App.java`
+3. Compile the Java files: `javac *.java`
 4. Run the application: `java App`
 
 ## 🤝 Usage
