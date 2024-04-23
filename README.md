@@ -40,9 +40,9 @@ The Hotel Management System project demonstrates the following OOP principles:
 
 To run the Hotel Management System locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/hotel-management-system.git`
-2. Navigate to the project directory: `cd hotel-management-system`
-3. Compile the Java files: `javac *.java`
+1. Clone the repository: `git clone https://github.com/left-no-crumbz/oop-cli.git`
+2. Navigate to the project directory: `cd Hotel`
+3. Compile the Java files: `javac App.java`
 4. Run the application: `java App`
 
 ## 🤝 Usage
